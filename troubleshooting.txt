@@ -1,2 +1,2 @@
-Git Troubleshooting Challenge 
-I am learning how to identify and solve Git problems. 
+Git Troubleshooting Challenge
+I am learning how to identify and solve Git problems
